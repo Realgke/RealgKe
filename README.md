@@ -1,11 +1,11 @@
-<h1 align="center">Hi there👋, I'm Realgke</h1>
+<h1 align="center">Hi there👋, I'm COO Wanjohi</h1>
 
 
 
 
 
 # 💫 About Me:
--🔭  - Open to work<br>- 👯 - Open to work and collaborate to open-source projects<br>- 📫 - How to reach me: mailto:royalgypson7@gmail.com<br> 
+-🔭  - Open to work<br>- 👯 - Open to work and collaborate to open-source projects<br>- 📫 - How to reach me: mailto:wanjirugibson7@gmail.com<br> 
 
 
 <!-- # 💻 Tech Stack:
